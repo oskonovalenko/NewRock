@@ -142,7 +142,7 @@ body {
 }
 
 .bodyy {
-    background: url(/img/4322.jpg) no-repeat;
+    background: url(4322.jpg) no-repeat;
     width: 1440px;
     height: 720px;
 }
@@ -392,7 +392,7 @@ body {
     border-radius: 4px;
 }
 .pic1 {
-    background-image: url(/img/img1.jpg);
+    background-image: url(img1.jpg);
     width: 396px;
     height: 396px;
     position: absolute;
@@ -400,7 +400,7 @@ body {
     left: 102px;
 }
 .pic2 {
-    background-image: url(/img/img3.jpg);
+    background-image: url(img3.jpg);
     width: 396px;
     height: 396px;
     position: absolute;
@@ -408,7 +408,7 @@ body {
     left: 522px;
 }
 .pic3 {
-    background-image: url(/img/img2.jpg);
+    background-image: url(img2.jpg);
     width: 396px;
     height: 396px;
     position: absolute;
@@ -434,7 +434,7 @@ body {
 
 }
 .bg1pic {
-    background-image: url(/img/bege.jpg);
+    background-image: url(bege.jpg);
     width: 1440px;
     height: 542px;
     position: absolute;
@@ -558,7 +558,7 @@ body {
     color: #212A2F;
 }
 .img1 {
-    background-image: url(/img/img1.png);
+    background-image: url(img1.png);
     width: 396px;
     height: 396px;
     position: absolute;
@@ -566,7 +566,7 @@ body {
     left: 102px;
 }
 .img2 {
-    background-image: url(/img/aaaaaaa2.png);
+    background-image: url(aaaaaaa2.png);
     width: 396px;
     height: 396px;
     position: absolute;
@@ -574,7 +574,7 @@ body {
     left: 522px;
 }
 .img3 {
-    background-image: url(/img/aaaaa1.png);
+    background-image: url(aaaaa1.png);
     width: 396px;
     height: 396px;
     position: absolute;
@@ -614,7 +614,7 @@ body {
     color: #212A2F;
 }
 .logbg {
-    background-image: url(/img/snapshot.png);
+    background-image: url(snapshot.png);
     width: 1440px;
     height: 545px;
     position: absolute;
@@ -686,4 +686,4 @@ body {
     color: #FFFFFF;
 }
 .picture8:hover {
-    color: #5d7d90;
+    color: #5d7d90;}
